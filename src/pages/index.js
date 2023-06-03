@@ -6,13 +6,13 @@ import Technologies from '../components/Technologies/Technologies';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
+import Image from "next/image";
 
 const Home = () => {
   return (
     <Layout>
       <Section grid>
         <Hero />
-        <BgAnimation />
       </Section>
       <Projects />
       <Technologies />

@@ -1,14 +1,10 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://tullio-forneris.dev)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
-
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+![Portfolio Website](https://ibb.co/09JMgpz)
 
 Setup:
 - run ```npm i && npm start```
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Let's collaborate and make an impact in the world of software development - [Contact Me](https://linkedin.com/in/tullio-forneris)
