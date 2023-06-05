@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://github.com/sonotullio/bank-modern-app',
     id: 1,
   },
+  {
+    title: 'Youtube Clone',
+    description:"Modern UI/UX youtube clone using React & MUI.",
+    image: '/images/youtube.png',
+    tags: ['React', 'JavaScript', 'MUI'],
+    source: 'https://google.com',
+    visit: 'https://github.com/sonotullio/youtube',
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
