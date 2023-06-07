@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Youtube Clone',
+    title: 'YouTube Clone',
     description:"Modern UI/UX youtube clone using React & MUI.",
     image: '/images/youtube.png',
     tags: ['React', 'JavaScript', 'MUI'],
     source: 'https://google.com',
     visit: 'https://github.com/sonotullio/youtube',
     id: 2,
+  },
+  {
+    title: 'YouFit!',
+    description:"Modern UI/UX fitness application using React & MUI.",
+    image: '/images/youfit.png',
+    tags: ['React', 'JavaScript', 'MUI'],
+    source: 'https://google.com',
+    visit: 'https://github.com/sonotullio/YouFit',
+    id: 3,
   },
 ];
 
